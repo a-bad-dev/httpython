@@ -1,5 +1,5 @@
 # httpython
-A very simple HTTP server in Python 3
+A very simple web server in Python 3
 
 Don't use this for anything important, it likely has RCE or crash exploits. 
 
